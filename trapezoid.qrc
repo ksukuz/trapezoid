@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/trapezoid">
+        <file>trapezoid.png</file>
+    </qresource>
+</RCC>

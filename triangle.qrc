@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/triangle">
+        <file alias="triangle">Regular_triangle.svg</file>
+    </qresource>
+</RCC>
